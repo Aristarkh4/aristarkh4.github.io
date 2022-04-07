@@ -1,10 +1,10 @@
-/* 
+/*
 Copied from https://github.com/derekkedziora/jekyll-demo/blob/master/scripts/mode-switcher.js
 https://github.com/derekkedziora/jekyll-demo
 Creative Commons Attribution 4.0 International License
 */
 
-let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)"); 
+let systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)");
 let theme = sessionStorage.getItem('theme');
 
 function changeIconImgSrc(src) {
@@ -20,7 +20,7 @@ if (systemInitiatedDark.matches) {
 
 function prefersColorTest(systemInitiatedDark) {
   if (systemInitiatedDark.matches) {
-  	document.documentElement.setAttribute('data-theme', 'dark');		
+  	document.documentElement.setAttribute('data-theme', 'dark');
    	changeIconImgSrc("../assets/img/moon.svg");
    	sessionStorage.setItem('theme', '');
   } else {
@@ -42,7 +42,7 @@ function modeSwitcher() {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
 		changeIconImgSrc("../assets/img/moon.svg");
-	} else if (systemInitiatedDark.matches) {	
+	} else if (systemInitiatedDark.matches) {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
 		changeIconImgSrc("../assets/img/sun.svg");

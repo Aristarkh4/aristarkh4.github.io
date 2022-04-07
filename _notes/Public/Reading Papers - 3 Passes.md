@@ -1,8 +1,9 @@
 ---
 title : Reading Papers - 3 passes
 notetype : feed
-date : 2022-04-08
+date : 08-04-2022
 ---
+
 Based on S. Keshav's "How to read a paper".
 
 Prevent drowing in details before getting a bird-eye view.

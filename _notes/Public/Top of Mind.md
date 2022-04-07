@@ -1,7 +1,7 @@
 ---
 title : Top of Mind
 notetype : feed
-date : 2022-04-08
+date : 08-04-2022
 ---
 
 - Establishing a robust Research and Development process
