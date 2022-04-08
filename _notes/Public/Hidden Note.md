@@ -1,11 +1,26 @@
 ---
 title: Hidden Note
-notetype : unfeed
+notetype : feed
 date : 01-01-2021
 ---
 
-Tada! You found the hidden note! This note is just like [[Markdown Rendered]], but not part of the feed since we hide it using `notetype: unfeed`. Please remember that the intention here is only to declutter the feed and not provide any 'protection' to the content. Notes with unfeed note type will be synced to Github, accessed via URL, and hyperlinked.
+- Establishing a robust Research and Development process
+    - Systematic research and development procedures
+    - Reproducible data science
+        - Managing data-based projects
+        - Handling data
+    - Literature review
+        - [[Reading Papers - 3 Passes]]
+- Building a Personal Knowledge Management(PKM) system
+    - 📕 How to take Smart Notes - Sonke Ahrens
 
-### How to handle Private notes?
+- Neural Radiance Fields (NeRF)
+- Bayesian Methods for Machine Learning and Reasoning
+- Multi-object tracking in sport context
+- Camera modelling and calibration
 
-I would recommend using sub-folders inside `_notes` (Eg: Public and Private) and add Private to .gitignore so that Private notes won't get synced to Github. PS: Can you see the backlink to Welcome to the garden? That's backlinking! :)
+- Capturing my family history and migrations
+
+- Media and fiction
+    - [[All pieces of media is just someone's opinion]]
+    - What makes improv fun? What makes improv good?
