@@ -82,14 +82,14 @@
                     <div class="column is-half">
                             {%- include FeedContent.html -%}
                             {%- include Feed.html -%}
-                            {%- include Footer.html -%}             
+                            {%- include Footer.html -%}
                 </div>
                     {%- endif -%}
             {%- endif -%}
 
             <!---CASE 2 : Notes & Blog Page-->
 
-            {%- if page.content-type == "notes" 
+            {%- if page.content-type == "notes"
             or page.content-type == "post"  -%}
                 <div class="column is-three-fifths">
                     <main>
@@ -133,7 +133,7 @@
                 </div>
             {%- endif -%}
 
-            <!--- CASE 4 :  Blog Listing page -->   
+            <!--- CASE 4 :  Blog Listing page -->
 
             {%- if page.permalink == "/posts" -%}
                 <div class="column is-half">
@@ -154,21 +154,24 @@
                             </div>
                         {%- endfor -%}
                     </div>
-                    {%- include Footer.html -%} 
+                    {%- include Footer.html -%}
                 </div>
             {%- endif -%}
 
-            <!--- CASE 5 :  Notes Listing page -->   
+            <!--- CASE 5 :  Notes Listing page -->
 
             {%- if page.permalink == "/notes" -%}
                 <div class="column is-half">
                     {%- include FeedContent.html -%}
                     {%- include Feed.html -%}
-                    {%- include Footer.html -%}             
+                    {%- include Footer.html -%}
                 </div>
             {%- endif -%}
 
         </div>
-    </section>     
+    </section>
 </body>
 </html>
+
+<script src=”https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id=”MathJax-script” async src=”https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
