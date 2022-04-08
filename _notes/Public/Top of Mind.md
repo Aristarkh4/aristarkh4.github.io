@@ -14,10 +14,15 @@ date : 08-04-2022
 - Building a Personal Knowledge Management(PKM) system
     - 📕 How to take Smart Notes - Sonke Ahrens
 
-- Neural Radiance Fields (NeRF)
+- Computer vision for medical imaging
+- Retreiving real space information from photo and video data
+    - Camera modelling and calibration
+    - Multi-object tracking in sport context
+    - Inverse Rendering
+        - Neural Radiance Fields (NeRF)
 - Bayesian Methods for Machine Learning and Reasoning
-- Multi-object tracking in sport context
-- Camera modelling and calibration
+
+
 
 - Capturing my family history and migrations
 
