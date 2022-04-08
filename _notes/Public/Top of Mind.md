@@ -19,7 +19,7 @@ date : 08-04-2022
     - Camera modelling and calibration
     - Multi-object tracking in sport context
     - Inverse Rendering
-        - Neural Radiance Fields (NeRF)
+        - [[NeRF]] - Neural Radiance Fields
 - Bayesian Methods for Machine Learning and Reasoning
 
 
