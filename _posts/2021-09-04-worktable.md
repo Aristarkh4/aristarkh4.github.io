@@ -1,5 +1,5 @@
 ---
-title: Notes on objects I have on my worktable
+title: Notes on objects I have on my worktable - 2022-09-04
 date : 04-09-2021
 ---
 I write this inspired by Georges Perec's essays on questioning the mundane, specifically "Approaches to What?" and "Notes Concerning the Objects that are on my Work-Table" from the "Brief Notes on the Art and Manner of Arranging One's Books" collection. I appreciate the idea of questioning the habitual and capturing the state of being in words, not allowing for shaky recollection to be the main source of information of my life. I will attempt to write down what constitutes my home office work table at the current moment. The topic especially rose in importance since I'm currently in second long-term lockdown imposed on New Zealand due to COVID-19 and have to do all my work from home.
