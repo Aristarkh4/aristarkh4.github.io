@@ -2,8 +2,6 @@
 title: Notes on objects I have on my worktable
 date : 04-09-2021
 ---
-# Notes on objects I have on my worktable
-
 I write this inspired by Georges Perec's essays on questioning the mundane, specifically "Approaches to What?" and "Notes Concerning the Objects that are on my Work-Table" from the "Brief Notes on the Art and Manner of Arranging One's Books" collection. I appreciate the idea of questioning the habitual and capturing the state of being in words, not allowing for shaky recollection to be the main source of information of my life. I will attempt to write down what constitutes my home office work table at the current moment. The topic especially rose in importance since I'm currently in second long-term lockdown imposed on New Zealand due to COVID-19 and have to do all my work from home.
 
 The table that I have is a relatively cheap student table that I have purchased about a year and a half ago. I remember selecting it especially due to a long plank that elevated the back of the table that I saw perfect for holding the monitor. I've since removed that plank, due to the setup taking up too much space. It used to have two drawers in, and was taking up about half the table space. The only remains of that shelf are the back panel that is somehow essential for the structure of the table and cannot be removed, as well as several holes in the surface of the table, where the shelving was set up. I usually attempt to hide those holes beneath the objects on the table, but some still end up sticking out, especially the ones close to the left and right edges of the table. Still the table doesn't have nearly enough space for me to feel comfortable.
